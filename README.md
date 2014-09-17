@@ -10,4 +10,5 @@ The folder structure of the zipped archive when released to Zen Cart Plug-ins sh
   stock_by_attribute_1.5.X_Instructions
 
 http://www.zen-cart.com/downloads.php?do=file&id=202
+
 http://www.zen-cart.com/showthread.php?47180-Stock-by-Attribute-v4-0-addon-for-v1-3-5-1-3-9
