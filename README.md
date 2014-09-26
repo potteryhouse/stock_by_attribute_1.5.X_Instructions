@@ -1,7 +1,7 @@
 stock_by_attribute_1.5.X_Instructions
 =====================================
 
-Installation, Configuration, and Usage Instructions for Stock By Attributes (SBA) Version 1.5.X
+Installation, Configuration, and Usage Instructions for Zen Cart Stock By Attributes (SBA) Version 1.5.X
 
 The folder structure of the zipped archive when released to Zen Cart Plug-ins should be:
   
